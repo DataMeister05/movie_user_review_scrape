@@ -7,14 +7,9 @@ Python: This script is written in Python. Chrome WebDriver: You need to download
 
 pip install requests beautifulsoup4 pandas
 
+Steps to clone and run the script:
 1) Clone the repository or download the script to your local machine.
-
 2) Install the required packages using the command mentioned above.
-
 3) Download the Chrome WebDriver and set the PATH variable in the script to the path of the WebDriver on your machine.
-
-4) Run the script using the command:
-
-5) python movie_user_review_scraper.py
-
-6) Then, the script will scrape user reviews for each movie from the IMDb URLs and store them in separate CSV files within the reviews directory.
+4) Run the script using the command: python Movie.py
+5) Then, the script will scrape user reviews for each movie from the IMDb URLs and store them in imdb_top_25_python CSV file.
