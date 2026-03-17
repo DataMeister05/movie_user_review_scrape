@@ -7,7 +7,7 @@ Python: This script is written in Python. Chrome WebDriver: You need to download
 
 pip install requests beautifulsoup4 pandas
 
-Steps to clone and run the script:
+### Steps to clone and run the script:
 1) Clone the repository or download the script to your local machine.
 2) Install the required packages using the command mentioned above.
 3) Download the Chrome WebDriver and set the PATH variable in the script to the path of the WebDriver on your machine.
