@@ -1,4 +1,4 @@
-IMDb User Reviews Scraper
+# IMDb User Reviews Scraper
 This Python script allows you to scrape user reviews for movies from IMDb and store them in separate CSV files. It utilizes the IMDbPY package  and BeautifulSoup to gather movie URLs and scrape user reviews.
 
 Prerequisites Before using this script, make sure you have the following installed:
